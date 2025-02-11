@@ -1,1 +1,1 @@
-# VCC_Assn1
+This repository consists of the source of the Microservice-Based Application created for the completion of VCC_Assn1 whose objective was to create and configure multiple Virtual Machines (VMs) using VirtualBox, establish a network between them, and deploy a microservice-based application across the connected VMs.
